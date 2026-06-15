@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cp-01",
+    "name": "North Gate Checkpoint",
+    "status": "Operational",
+    "activeStaff": 12,
+    "lastUpdated": "10 mins ago"
+  },
+  {
+    "id": "cp-02",
+    "name": "South Terminal",
+    "status": "Delayed",
+    "activeStaff": 8,
+    "lastUpdated": "5 mins ago"
+  },
+  {
+    "id": "cp-03",
+    "name": "East Cargo Bay",
+    "status": "Operational",
+    "activeStaff": 15,
+    "lastUpdated": "2 mins ago"
+  },
+  {
+    "id": "cp-04",
+    "name": "West Security Post",
+    "status": "Under Maintenance",
+    "activeStaff": 3,
+    "lastUpdated": "1 hour ago"
+  }
+]
