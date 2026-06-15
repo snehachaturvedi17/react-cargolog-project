@@ -1,20 +1,158 @@
-<<<<<<< HEAD
-# React + Vite
+# CargoLog Desk Enterprise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Global Customs Intelligence & Cargo Operations Platform
 
-Currently, two official plugins are available:
+CargoLog Desk is a modern ReactJS-based customs and cargo management platform designed to assist customs officers, port authorities, and logistics teams in managing cargo inspections, tariff verification, document validation, and resource allocation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The platform simulates real-world customs workflows through an intuitive dashboard and operational modules inspired by modern cargo management systems.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# react-cargolog-project
->>>>>>> c13129e47be6451a9c5ddf3898016c3fff1a9bb3
+International trade operations involve thousands of cargo shipments, customs declarations, inspections, and compliance checks every day.
+
+CargoLog Desk helps streamline:
+
+* Cargo verification
+* Customs documentation checks
+* Tariff classification
+* Inspection management
+* Route optimization
+* Resource allocation
+* Operational monitoring
+
+
+## Key Features
+
+### Executive Dashboard
+
+* Active shipment monitoring
+* Pending inspection tracking
+* High-risk container alerts
+* Clearance time analytics
+* Revenue overview
+
+### HSN & Tariff Intelligence Center
+
+* Searchable tax code database
+* Product classification support
+* Tariff lookup system
+
+### Bill of Lading Verification Hub
+
+* Document validation workflow
+* Fraud prevention simulation
+* Verification status management
+
+### Port Inspection Operations Center
+
+* Container inspection queue
+* Operational monitoring
+* Inspection prioritization
+
+### Customs Resource Allocation Dashboard
+
+* Inspector workload management
+* Resource distribution monitoring
+* Operational efficiency tracking
+
+### Route Optimizer
+
+* Clearance route comparison
+* Waiting time analysis
+* Fastest route recommendations
+
+### Trade Route Analytics
+
+* Global trade corridor overview
+* Route activity monitoring
+
+### Risk Assessment Center
+
+* Risk categorization
+* Compliance indicators
+* Cargo risk monitoring
+
+
+
+## Technology Stack
+
+### Frontend
+
+* ReactJS
+* Vite
+* JavaScript (ES6+)
+
+### Styling
+
+* CSS3
+* Responsive Layout Design
+* Modern Dashboard UI
+
+### React Concepts Used
+
+* Functional Components
+* useState
+* useEffect
+* Props
+* Conditional Rendering
+* React Router
+* Component-Based Architecture
+* Dynamic Lists using map()
+
+
+
+## Project Structure
+
+src/
+├── components/
+├── pages/
+├── assets/
+├── data/
+├── App.jsx
+└── main.jsx
+
+
+## Screenshots
+
+(Add project screenshots here before final submission)
+
+
+
+## Learning Outcomes
+
+This project demonstrates practical implementation of:
+
+* React Component Design
+* State Management
+* Event Handling
+* Dynamic Rendering
+* Dashboard UI Design
+* Industry-Oriented Product Thinking
+
+
+
+## Future Scope
+
+* Backend Integration
+* Live Customs Database
+* Authentication System
+* Real-Time Shipment Tracking
+* Advanced Analytics Dashboard
+
+
+
+## GitHub Repository
+
+https://github.com/snehachaturvedi17/react-cargolog-project
+
+
+
+## Developer
+
+Sneha Chaturvedi
+
+B.Tech Computer Science Engineering
+
+ITM Skills University
